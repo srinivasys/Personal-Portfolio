@@ -93,11 +93,6 @@ const Navbar = () => {
               Email <HiOutlineMail size={30} />
             </a>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
-            <a className='flex justify-between items-center w-full text-gray-300' href='https://docs.google.com/document/d/1Jz8XXewgQAzvb0q-8od0CdLguC5nnkCDXfA1y3Ou2wQ/edit?usp=sharing'>
-              Resume <BsFillPersonLinesFill size={30} />
-            </a>
-          </li>
         </ul>
       </div>
     </div>
